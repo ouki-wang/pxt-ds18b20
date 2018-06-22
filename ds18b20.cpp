@@ -1,7 +1,7 @@
 #include "pxt.h"
 #include <cstdint>
 #include <math.h>
-#include <stdio.h>
+
 
 using namespace pxt;
 
