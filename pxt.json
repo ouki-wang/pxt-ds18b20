@@ -1,6 +1,6 @@
 {
     "name": "DS18B20",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "This library is DS18B20",
     "license": "MIT",
     "dependencies": {
