@@ -2,6 +2,7 @@
 #include <cstdint>
 #include <math.h>
 #include <luyuhao.h>
+#include <wanghui.h>
 
 using namespace pxt;
 

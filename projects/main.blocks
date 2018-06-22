@@ -1,0 +1,8 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="pxt-on-start" x="20" y="20"></block>
+  <block type="device_forever" x="115" y="20"></block>
+  <block type="Temperature_number" disabled="true" x="277" y="122">
+    <field name="p">DS18B20.pin.pin0</field>
+  </block>
+</xml>
